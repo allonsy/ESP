@@ -1,0 +1,9 @@
+Author: Alec S
+
+The program tests if you have ESP inclinations based on negative or postive images.
+Questions? email me: linuxbash8@gmail.com
+Work on the ESP program from cs162
+based in Java, with swing library
+How to use: compile and run the program (javac, java) or run java -jar esp.jar
+click on a curtain, try to predict behind which curtain the picture will show up. after you select, the answer will be shown. Click continue or another curtain or press ENTER to move on
+after answering 20 questions, the program will auto-quit and output meaningful info on your psyhic abilities.
